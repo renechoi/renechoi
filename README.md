@@ -10,6 +10,11 @@
 Hi. 
 
 
+
+### <h1> Skills 💪 </h1>
+
+
+
 ##### <h1> I'm currently learning  🌱 </h1>
 
 @ 

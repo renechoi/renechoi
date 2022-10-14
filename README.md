@@ -7,16 +7,18 @@
 
 ### <h1> Hi there 👋 </h1>
 
+Hi. 
+
+
+##### <h1> I'm currently learning  🌱 </h1>
+
+@ 
 
 
 
-##### I'm currently learning  🌱
+##### <h1> Biography 🎢 </h1>
 
-
-
-
-
-##### Biography 🎢
+2022
 
 
 

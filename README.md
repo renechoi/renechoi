@@ -15,7 +15,7 @@ Hi.
 
 📌 <h3> platforms & languages </h3>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 
 📌 <h3> Tools </h3>

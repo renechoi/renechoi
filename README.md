@@ -29,7 +29,7 @@ Web Back-end
 
 ##### <h1> Biography 🎢 </h1>
 
-2022
+2022 Developer 
 
 
 

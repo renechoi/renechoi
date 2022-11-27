@@ -23,13 +23,13 @@ Web Back-end
   - 26.10.2022 ~ 22.11.2022 
   - Web Back-end (Java) 
 
-2019 - | Cryptocurrency Trader | self-employed @ Pyeongchang, Korea 
+2020 - | Cryptocurrency Trader | self-employed @ Pyeongchang, Korea 
   - developed an algorithmic trading system   
     - based on basic quant and TA(Rsi, Bol, Ma,,,) with two directional heding management and mocking high-frequency-trading strategy 
     - mostly via Binance future market 
     - Stack and platforms used : Python, Tradingview, Binance, Nginx, Heroku  
 
-2018 - 2019 | Barista | @ Jeju, Korea 
+2018 - 2020 | Barista | @ Jeju, Korea 
   - SCA level 2 
   - CEO of Favoreoe
   - Starbucks Barista 

@@ -1,20 +1,23 @@
+### Choi Byung Ho 👋
 
-This is Renechoi's github. 
+- Parking Cloud(Cloud BackEnd Developer, 2023.07~) 
+- https://upcurvewave.tistory.com/
+- https://my.surfit.io/w/1655268413
 
-README now refactoring ^-^
+</br>
 
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
+</p>
 
-
-##### <h1> 🌱 </h1>
-
-Web Back-end 
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-
-
-
-
-##### <h1> 🎢 </h1>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-8FAAZZ?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</p>
 
 
 
@@ -25,20 +28,5 @@ Web Back-end
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=renechoi)](https://solved.ac/renechoi/)
 
 
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renechoi&show_icons=true&theme=radical)
- -->
-<!--
-**renechoi/renechoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

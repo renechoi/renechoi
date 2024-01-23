@@ -1,8 +1,7 @@
 ### Choi Byung Ho 👋
 
-- Parking Cloud(Cloud BackEnd Developer, 2023.07~) 
+- Parking Cloud(BackEnd Developer, 2023.07~) 
 - https://upcurvewave.tistory.com/
-- https://my.surfit.io/w/1655268413
 
 </br>
 

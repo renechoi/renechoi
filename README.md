@@ -41,7 +41,7 @@
 | 1   |                                                             | Unknown   | Unknown    | 2024 |
 | 2   |                                                                | Unknown   | Unknown    |      |
 |     |                                                                         |           |            |      |
-| 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 오브젝트 | 위키북스 |  2023    |
+| 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 조영호 | 위키북스 |  2023    |
 | 18  | [모던 자바 인 액션](https://upcurvewave.tistory.com/258)                     | 라울 게이브리얼 외 | 한빛미디어 |      |
 |     |                                                                         |           |            |      |
 | 17  | [객체지향의 사실과 오해](https://upcurvewave.tistory.com/207)                 | 조영호     | 위키북스  | 2022 |

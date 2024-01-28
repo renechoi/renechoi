@@ -55,7 +55,7 @@
 | 20  | [1만 시간의 재발견](https://upcurvewave.tistory.com/337)                     | 안데르스 에릭슨 외 | 비즈니스북스 |      |
 | 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 조영호 | 위키북스 |      |
 | 18  | [모던 자바 인 액션](https://upcurvewave.tistory.com/258)                     | 라울 게이브리얼 외 | 한빛미디어 |      |
-|     |                                                                         |           |            |  2023    |
+|     |                                                                         |           |            |  2022    |
 | 17  | [객체지향의 사실과 오해](https://upcurvewave.tistory.com/207)                 | 조영호     | 위키북스  |  |
 | 16  | [개발자의 글쓰기](https://upcurvewave.tistory.com/167)                     | 김철수     | 위키북스  |   |
 | 15  | [프로그래머 철학을 만나다](https://upcurvewave.tistory.com/165)               | 유석문     | 로드북  |   |

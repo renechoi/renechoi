@@ -35,13 +35,13 @@
 
 ### 📚 I embrace 'you are what you read.' Do you?
 
-| No. | Book Title                                                              | Author    | Publisher  | Year |
+| No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
-|     |                                                                         |           |            |      |
-| 33  | [단위 테스트](https://upcurvewave.tistory.com/637)                     | 블라디미르 코리코프 | 에이콘출판 |  2024    |
+|     |                                                                         |           |            |   2024   |
+| 33  | [단위 테스트](https://upcurvewave.tistory.com/637)                     | 블라디미르 코리코프 | 에이콘출판 |      |
 | 32  | [도메인 주도 설계](https://upcurvewave.tistory.com/636)                     | 에릭 에반스 | 위키북스 |      |
-|     |                                                                         |           |            |      |
-| 31  | [필독 개발자 온보딩 가이드](https://upcurvewave.tistory.com/616)                     | 크리스 리코미니 외 | 책만 |  2023    |
+|     |                                                                         |           |            | 2023     |
+| 31  | [필독 개발자 온보딩 가이드](https://upcurvewave.tistory.com/616)                     | 크리스 리코미니 외 | 책만 |      |
 | 30  | [만들면서 배우는 클린 아키텍처](https://upcurvewave.tistory.com/508)                     | 톰 홈버그 | 위키북스 |      |
 | 29  | [개발자를 위한 글쓰기 가이드](https://upcurvewave.tistory.com/492)                     | 유영경 | 로드북 |      |
 | 28  | [기술문서 작성 완벽 가이드](https://upcurvewave.tistory.com/491)                     | 자레드 바티 외 | 한빛미디어 |      |
@@ -55,8 +55,8 @@
 | 20  | [1만 시간의 재발견](https://upcurvewave.tistory.com/337)                     | 안데르스 에릭슨 외 | 비즈니스북스 |      |
 | 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 조영호 | 위키북스 |      |
 | 18  | [모던 자바 인 액션](https://upcurvewave.tistory.com/258)                     | 라울 게이브리얼 외 | 한빛미디어 |      |
-|     |                                                                         |           |            |      |
-| 17  | [객체지향의 사실과 오해](https://upcurvewave.tistory.com/207)                 | 조영호     | 위키북스  | 2022 |
+|     |                                                                         |           |            |  2023    |
+| 17  | [객체지향의 사실과 오해](https://upcurvewave.tistory.com/207)                 | 조영호     | 위키북스  |  |
 | 16  | [개발자의 글쓰기](https://upcurvewave.tistory.com/167)                     | 김철수     | 위키북스  |   |
 | 15  | [프로그래머 철학을 만나다](https://upcurvewave.tistory.com/165)               | 유석문     | 로드북  |   |
 | 14  | [나는 주니어 개발자다](https://upcurvewave.tistory.com/161)                 | 지찬규 외     | 로드북  |   |

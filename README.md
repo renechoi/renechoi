@@ -38,10 +38,21 @@
 | No. | Book Title                                                              | Author    | Publisher  | Year |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |      |
-| 1   |                                                             | Unknown   | Unknown    | 2024 |
-| 2   |                                                                | Unknown   | Unknown    |      |
+| 32  | [도메인 주도 설계](https://upcurvewave.tistory.com/636)                     | 에릭 에반스 | 위키북스 |  2024    |
 |     |                                                                         |           |            |      |
-| 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 조영호 | 위키북스 |  2023    |
+| 31  | [필독 개발자 온보딩 가이드](https://upcurvewave.tistory.com/616)                     | 크리스 리코미니 외 | 책만 |  2023    |
+| 30  | [만들면서 배우는 클린 아키텍처](https://upcurvewave.tistory.com/508)                     | 톰 홈버그 | 위키북스 |      |
+| 29  | [개발자를 위한 글쓰기 가이드](https://upcurvewave.tistory.com/492)                     | 유영경 | 로드북 |      |
+| 28  | [기술문서 작성 완벽 가이드](https://upcurvewave.tistory.com/491)                     | 자레드 바티 외 | 한빛미디어 |      |
+| 27  | [개발자 원칙](https://upcurvewave.tistory.com/487)                     | 박성철 | 골든래빗 |      |
+| 26  | [디깅](https://upcurvewave.tistory.com/474)                     | 박치은 | 다크호스 |      |
+| 25  | [아주 작은 습관의 힘](https://upcurvewave.tistory.com/445)                     | 제임스 클리어 | 비즈니스북스 |      |
+| 24  | [도메인 주도 설계로 시작하는 마이크로서비스 개발](https://upcurvewave.tistory.com/347)                     | 한정현 외 | 위키북스 |      |
+| 23  | [소프트웨어 장인](https://upcurvewave.tistory.com/345)                     | 산드로 만쿠소 | 길벗 |      |
+| 22  | [함께 자라기](https://upcurvewave.tistory.com/340)                     | 김창준 | 인사이트 |      |
+| 21  | [그림으로 배우는 도커&쿠버네티스](https://upcurvewave.tistory.com/339)                     | 오가사와라 시게타카 | 위키북스 |     |
+| 20  | [1만 시간의 재발견](https://upcurvewave.tistory.com/337)                     | 안데르스 에릭슨 외 | 비즈니스북스 |      |
+| 19  | [오브젝트](https://upcurvewave.tistory.com/285)                     | 조영호 | 위키북스 |      |
 | 18  | [모던 자바 인 액션](https://upcurvewave.tistory.com/258)                     | 라울 게이브리얼 외 | 한빛미디어 |      |
 |     |                                                                         |           |            |      |
 | 17  | [객체지향의 사실과 오해](https://upcurvewave.tistory.com/207)                 | 조영호     | 위키북스  | 2022 |

@@ -38,7 +38,8 @@
 | No. | Book Title                                                              | Author    | Publisher  | Year |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |      |
-| 32  | [도메인 주도 설계](https://upcurvewave.tistory.com/636)                     | 에릭 에반스 | 위키북스 |  2024    |
+| 33  | [단위 테스트](https://upcurvewave.tistory.com/637)                     | 블라디미르 코리코프 | 에이콘출판 |  2024    |
+| 32  | [도메인 주도 설계](https://upcurvewave.tistory.com/636)                     | 에릭 에반스 | 위키북스 |      |
 |     |                                                                         |           |            |      |
 | 31  | [필독 개발자 온보딩 가이드](https://upcurvewave.tistory.com/616)                     | 크리스 리코미니 외 | 책만 |  2023    |
 | 30  | [만들면서 배우는 클린 아키텍처](https://upcurvewave.tistory.com/508)                     | 톰 홈버그 | 위키북스 |      |

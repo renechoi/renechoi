@@ -38,6 +38,7 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 35  | [테스트 주도 개발로 배우는 객체지향 설계와 실천](https://upcurvewave.tistory.com/639)   | 스티븐 프리먼 외 | 인사이트 |      |
 | 34  | [요즘 우아한 개발](https://upcurvewave.tistory.com/640)                     | 우아한 형제들 | 골든래빗 |      |
 | 33  | [단위 테스트](https://upcurvewave.tistory.com/637)                     | 블라디미르 코리코프 | 에이콘출판 |      |
 | 32  | [도메인 주도 설계](https://upcurvewave.tistory.com/636)                     | 에릭 에반스 | 위키북스 |      |

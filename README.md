@@ -38,6 +38,8 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 37  | [클린 아키텍처](https://upcurvewave.tistory.com/645)   | 로버트 C. 마틴 | 인사이트 |      |
+| 36  | [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://upcurvewave.tistory.com/641)   | 알렉스 쉬 | 인사이트 |      |
 | 35  | [테스트 주도 개발로 배우는 객체지향 설계와 실천](https://upcurvewave.tistory.com/639)   | 스티븐 프리먼 외 | 인사이트 |      |
 | 34  | [요즘 우아한 개발](https://upcurvewave.tistory.com/640)                     | 우아한 형제들 | 골든래빗 |      |
 | 33  | [단위 테스트](https://upcurvewave.tistory.com/637)                     | 블라디미르 코리코프 | 에이콘출판 |      |
@@ -65,7 +67,7 @@
 | 13  | [자바로 배우는 리팩토링 입문](https://upcurvewave.tistory.com/160)             | 유키 히로시 | 길벗  |   |
 | 12  | [엘레강트 오브젝트](https://upcurvewave.tistory.com/152)                    | Bugayenko, Yegor  | 지앤선  |   |
 | 11  | [헤드 퍼스트 디자인 패턴](https://upcurvewave.tistory.com/141)                | 에릭 프리먼 외   | 한빛미디어  |   |
-| 10  | [클린 코드](https://upcurvewave.tistory.com/134)                          | 로버트 C 마틴   | 인사이트  |   |
+| 10  | [클린 코드](https://upcurvewave.tistory.com/134)                          | 로버트 C. 마틴   | 인사이트  |   |
 | 9   | [공학의 시간](https://upcurvewave.tistory.com/121)                         | 이순석      | 청림출판  |   |
 | 8   | [자바와 JUnit을 활용한 실용주의 단위 테스트](https://upcurvewave.tistory.com/120) | 제프 랭어 외   | 길벗  |   |
 | 7   | [자바 코딩의 기술](https://upcurvewave.tistory.com/108)                      | 사이먼 하러 외   | 길벗  |   |

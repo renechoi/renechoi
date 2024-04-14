@@ -38,6 +38,8 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 39  | [컴퓨터 밑바닥의 비밀](https://upcurvewave.tistory.com/652)   | 루 샤오펑 | 길벗 |      |
+| 38  | [대규모 서비스를 지탱하는 기술](https://upcurvewave.tistory.com/650)   | 다나카 신지 외 | 제이펍 |      |
 | 37  | [클린 아키텍처](https://upcurvewave.tistory.com/645)   | 로버트 C. 마틴 | 인사이트 |      |
 | 36  | [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://upcurvewave.tistory.com/641)   | 알렉스 쉬 | 인사이트 |      |
 | 35  | [테스트 주도 개발로 배우는 객체지향 설계와 실천](https://upcurvewave.tistory.com/639)   | 스티븐 프리먼 외 | 인사이트 |      |
@@ -91,6 +93,7 @@
 
 | Publish At | Title | Keywords |
 |------------|-------|---------|
+| 2024.03 | [자바에서 동시성 문제를 다루는 n가지 방법들](https://renechoi.notion.site/2024-03-n-feat-6553bbe3b4a049b8a6b0661ac4156bf9) | `동시성`, `Lock`, `LockFree` |
 | 2024.02 | [티켓 서비스 백엔드 시스템에서 중복 요청 이슈를 멱등하게 처리하기](https://www.notion.so/2024-02-86030c6e0fee453da1815d39fe42bb00?pvs=21) | `멱등성`, `중복 요청` |
 | 2024.02 | [Gson 베이스 프로젝트에서 LocalDateTime 컨버팅 지옥 탈출하기](https://www.notion.so/2024-02-Gson-LocalDateTime-06346b78fa2a49ce8e634d9a7f6f000a?pvs=21) | `Gson`, `LocalDateTime` |
 | 2024.02 | [예외 알림 프로세스에서 OOM을 방지하며 중복 처리를 위한 Marking 방식 (WeakHashMap)](https://www.notion.so/2024-02-OOM-Marking-WeakHashMap-050b7ff7e4cc4a6595200ae72e615483?pvs=21) | `OOM`, `WeakHashMap` |
@@ -136,7 +139,8 @@
 
 | Publish At | Title | Keyword |
 |------------|-------|---------|
-| 2023.12 | [엔티티 필드 매핑 전략 탐구: Gatling을 이용한 Json 필드 매핑 사례 분석](https://www.notion.so/2023-12-Gatling-Json-613b15fa415046d6b906b9818505548d?pvs=21) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `성능 테스트`, `Json 필드 매핑` |
+| 2024.04 | [백엔드 응답 속도 500ms, 돌고 돌아 90% 개선한 썰](https://renechoi.notion.site/2024-04-500ms-90-d72e05cd7f4643798f01fea55b0c58af) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `성능 개선`, `응답 속도`, `로컬 캐시` |
+| 2023.12 | [엔티티 필드 매핑 전략 탐구: Gatling을 이용한 Json 필드 매핑 사례 분석](https://www.notion.so/2023-12-Gatling-Json-613b15fa415046d6b906b9818505548d?pvs=21) ㅤㅤㅤ| `성능 테스트`, `Json 필드 매핑` |
 | 2023.10 | [로깅 추적을 위한 AOP 적용과 이후 성능 차이 그리고 why ?!](https://www.notion.so/2023-10-AOP-why-4a2f919457e34e75bac3388d2b3cbc9c?pvs=21) | `AOP`, `성능 최적화` |
 | 2023.10 | [순차 탐색 중 이미 지나친 정보를 알고 싶다면? 메모리 캐싱 직접 구현 (feat. 알고리즘 vs 자료구조)](https://www.notion.so/2023-10-feat-vs-0a8d5dbfec9b4218965b811b20b0e1a9?pvs=21) | `메모리 캐싱`, `자료구조` |
 
@@ -144,6 +148,7 @@
 
 | Publish At | Title | Keyword |
 |------------|-------|---------|
+| 2024.03 | [넥스트스텝 ATDD, 클린 코드 with Spring 8기 수료 회고](https://renechoi.notion.site/2024-03-ATDD-with-Spring-8-83b9fcfdfea742ada9783ef8d975cc48) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `클린 코드`, `ATDD` |
 | 2023.12 | [입사 0년차 주니어의 첫 운영 배포와 실수 경험](https://www.notion.so/2023-12-0-a91b33e1d60c46f69b6b83797b6cf300?pvs=21) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `운영 배포`, `실수 경험` |
 | 2023.11 | [자동화 경험 공유 - 코드 생성 도구 JavaPoet을 이용한 클래스 복사, 커스터마이징, 컴파일, 로딩](https://www.notion.so/2023-11-JavaPoet-e8b880934d324ae3bc88f8a82b47e7db?pvs=21)      | `자동화`, `JavaPoet` |
 

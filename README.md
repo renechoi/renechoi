@@ -35,6 +35,8 @@
 
 ## 📚 Reads
 
+> I read for three reasons: to emerge anew from the final page, to efficiently absorb the wisdom of others, and to fuel my own writing.
+
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |

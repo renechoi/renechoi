@@ -96,6 +96,7 @@
 
 | Publish At | Title | Keywords |
 |------------|-------|---------|
+| 2024.06 | [카우치베이스 CAS 동시성 이슈 트러블 슈팅](https://renechoi.notion.site/2024-05-BDD-8-5-1000-5a0d6fd2bab647dd8d78b4977a24cd2c) | `동시성`, `Couchbase`, `Cas` |
 | 2024.03 | [자바에서 동시성 문제를 다루는 n가지 방법들](https://renechoi.notion.site/2024-03-n-feat-6553bbe3b4a049b8a6b0661ac4156bf9) | `동시성`, `Lock`, `LockFree` |
 | 2024.02 | [티켓 서비스 백엔드 시스템에서 중복 요청 이슈를 멱등하게 처리하기](https://www.notion.so/2024-02-86030c6e0fee453da1815d39fe42bb00?pvs=21) | `멱등성`, `중복 요청` |
 | 2024.02 | [Gson 베이스 프로젝트에서 LocalDateTime 컨버팅 지옥 탈출하기](https://www.notion.so/2024-02-Gson-LocalDateTime-06346b78fa2a49ce8e634d9a7f6f000a?pvs=21) | `Gson`, `LocalDateTime` |
@@ -151,6 +152,7 @@
 
 | Publish At | Title | Keyword |
 |------------|-------|---------|
+| 2024.05 | [실전에서 BDD하기 - 8개월, 5개 서비스, 1000개 테스트 작성 경험 공유](https://renechoi.notion.site/2024-05-BDD-8-5-1000-5a0d6fd2bab647dd8d78b4977a24cd2c) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `테스트`, `BDD` |
 | 2024.03 | [넥스트스텝 ATDD, 클린 코드 with Spring 8기 수료 회고](https://renechoi.notion.site/2024-03-ATDD-with-Spring-8-83b9fcfdfea742ada9783ef8d975cc48) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `클린 코드`, `ATDD` |
 | 2023.12 | [입사 0년차 주니어의 첫 운영 배포와 실수 경험](https://www.notion.so/2023-12-0-a91b33e1d60c46f69b6b83797b6cf300?pvs=21) ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ| `운영 배포`, `실수 경험` |
 | 2023.11 | [자동화 경험 공유 - 코드 생성 도구 JavaPoet을 이용한 클래스 복사, 커스터마이징, 컴파일, 로딩](https://www.notion.so/2023-11-JavaPoet-e8b880934d324ae3bc88f8a82b47e7db?pvs=21)      | `자동화`, `JavaPoet` |

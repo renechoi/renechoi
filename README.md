@@ -40,6 +40,7 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 41  | [REAL MySQL 8.0 - 1권](https://upcurvewave.tistory.com/651)   | 이성욱, 백은빈 | 위키북스 |      |
 | 40  | [자바 병렬 프로그래밍](https://upcurvewave.tistory.com/657)   | 브라이언 게츠 외 | 에이콘 |      |
 | 39  | [컴퓨터 밑바닥의 비밀](https://upcurvewave.tistory.com/652)   | 루 샤오펑 | 길벗 |      |
 | 38  | [대규모 서비스를 지탱하는 기술](https://upcurvewave.tistory.com/650)   | 다나카 신지 외 | 제이펍 |      |

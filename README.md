@@ -1,7 +1,7 @@
-# Choi Byung Ho 👋
+# Hello there!
 
-- ParkingCloud(BackEnd Developer, 2023.07~2024.08) 
-- https://upcurvewave.tistory.com/
+- NexonKorea(Software Engineer, 2024.08~)
+- ParkingCloud(BackEnd Developer, 2023.07~2024.08)
 
 </br>
 

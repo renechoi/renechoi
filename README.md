@@ -44,6 +44,8 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 44  | [애플에서는 단순하게 일합니다](https://upcurvewave.tistory.com/704)   | 박지수 | 알에이치코리아 |      |
+| 43  | [늦깎이 천재들의 비밀](https://upcurvewave.tistory.com/703)   | 데이비드 엡스타인 | 열린책들 |      |
 | 42  | [일류의 조건](https://upcurvewave.tistory.com/656)   | 사이토 다카시 | 필름(Feelm) |      |
 | 41  | [REAL MySQL 8.0 - 1권](https://upcurvewave.tistory.com/651)   | 이성욱, 백은빈 | 위키북스 |      |
 | 40  | [자바 병렬 프로그래밍](https://upcurvewave.tistory.com/657)   | 브라이언 게츠 외 | 에이콘 |      |

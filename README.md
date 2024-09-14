@@ -44,6 +44,8 @@
 | No. | Book Title                                                              | Author    | Publisher  | Read At |
 |-----|-------------------------------------------------------------------------|-----------|------------|------|
 |     |                                                                         |           |            |   2024   |
+| 46  | [클루지](https://upcurvewave.tistory.com/712)   | 개리 마커스 | 갤리온 |      |
+| 45  | [질문에 관한 질문들](https://upcurvewave.tistory.com/711)   | 백희정 | 노르웨이숲 |      |
 | 44  | [애플에서는 단순하게 일합니다](https://upcurvewave.tistory.com/704)   | 박지수 | 알에이치코리아 |      |
 | 43  | [늦깎이 천재들의 비밀](https://upcurvewave.tistory.com/703)   | 데이비드 엡스타인 | 열린책들 |      |
 | 42  | [일류의 조건](https://upcurvewave.tistory.com/656)   | 사이토 다카시 | 필름(Feelm) |      |
